@@ -1,0 +1,1 @@
+"The current project I am working on is a recipe page on a basic website. This is my first time doing something like this so I am going to go easy on myself. By the end of this project I will have demonstrated skills such as GitHub Basics, ceating and manipulating files, and basic HTML and CSS."
